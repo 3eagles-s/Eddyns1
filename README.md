@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Eddyns1
+- 👋 Hi, I’m @3eagles_
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently Coding and contributing to project 
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me By whatsapp +256702968391
 Thats All
